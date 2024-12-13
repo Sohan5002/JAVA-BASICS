@@ -6,7 +6,7 @@ A comprehensive and well-organized collection of notes for learning **Java** pro
 
 ## 📚 Table of Contents
 1. [Introduction](#introduction)
-2. [Core Java Concepts](#core-java-concepts)
+2. <A href="https://github.com/Sohan5002/JAVA-BASICS/tree/main/src/javabasics">Core Java Concepts</A>
 3. [Advanced Topics](#advanced-topics)
 4. [Code Examples](#code-examples)
 5. [How to Use](#how-to-use)
