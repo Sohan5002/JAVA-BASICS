@@ -70,6 +70,15 @@ It cannot run directly and must be invoked by an executable class.
 Key Difference:
 Executable Class: Contains main(), starts the program.
 Non-Executable Class: No main(), supports reusable logic.
+--------------------------------------------------------------------------------
+Package
+A package in Java is a namespace that organizes a group of related classes, interfaces, and sub-packages.
+ It provides a modular structure to the codebase and helps to avoid class name conflicts.
+  Packages also offer access control to restrict the scope of classes and improve code organization and maintainability.
+  
+  
+
+
 
  */
 
