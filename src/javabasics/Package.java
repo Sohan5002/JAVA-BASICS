@@ -1,3 +1,4 @@
+package javabasics;
 /*
  *java mein Package ek mechanism hai jisse aap apne classes aur interfaces ko logically organize kar sakte hain.
   *  Package ek folder ke jaisa hota hai jisme aap apni classes ko store karte hain, 
@@ -10,8 +11,8 @@ Example:
 
 java
 Copy code*/
-import java.util.List;
-import java.io.File;
+
+
 /*User-defined Packages: 
 Aap apne custom packages bana sakte hain for better organization.
 

@@ -77,6 +77,16 @@ A package in Java is a namespace that organizes a group of related classes, inte
   Packages also offer access control to restrict the scope of classes and improve code organization and maintainability.
   
   
+--------------------------------------------------------------------------------------------------------
+
+Java Collection Framework 
+
+"The Java Collection Framework is a unified architecture for storing, retrieving, and manipulating a group of objects. 
+It includes a set of interfaces, classes, and algorithms that provide ready-to-use data structures (like lists, sets, queues, and maps) and methods to perform operations such as searching, sorting, insertion, deletion, and iteration efficiently."
+
+In short, it is a well-structured library that simplifies working with complex data structures in Java, ensuring better performance, reusability, and flexibility.
+
+
 
 
 
