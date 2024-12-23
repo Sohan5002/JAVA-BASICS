@@ -1,3 +1,5 @@
+package javabasics.collectionFramework;
+
 /*
  Collection Interface Java Collection Framework ka root interface hai jo 
  objects ke group ko store aur manipulate karne ke liye methods define karta hai. 

@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class Krotation { 
 	
-	private static final char[] RoatedArray = null;
 	public static void RoatedArray(int arr[],int k) { 
 		int n=arr.length;
 		k=k%n;
