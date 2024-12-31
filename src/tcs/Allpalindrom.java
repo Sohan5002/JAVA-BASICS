@@ -24,19 +24,19 @@ public class Allpalindrom {
     
     public static void main(String []args)
      {
-        Scanner sc = new Scanner(System.in);
-        int start =sc.nextInt();
-        int end =sc.nextInt();
-        for(int  i= start;i<=end;i++)
-        {
-            String orignal=Integer.toString(i);
-            String reversed = new StringBuilder(orignal).reverse().toString();
-            if(reversed.equals(orignal))
-
+        try (Scanner sc = new Scanner(System.in)) {
+            int start =sc.nextInt();
+            int end =sc.nextInt();
+            for(int  i= start;i<=end;i++)
             {
-                System.out.println((reversed)+" ");
-            }
-} sc.close();
+                String orignal=Integer.toString(i);
+                String reversed = new StringBuilder(orignal).reverse().toString();
+                if(reversed.equals(orignal))
+                    
+                {
+                    System.out.println((reversed)+" ");
+                }
+            }       }
     } 
   /*canner  input = new Scanner(System.in);
    int min= input.nextInt();

@@ -8,7 +8,8 @@ public class SumofAP {
         
         // Loop through each term in the AP
         for (int i = 0; i < numberOfTerms; i++) {
-            sum += firstTerm;  // Add current term to sum
+        // for(int i= firstTerm;i<commonDiff*numberOfTerms-1;i+=commonDiff)   { 
+         sum += firstTerm;  // Add current term to sum
             firstTerm += commonDiff;  // Move to the next term
         }
         
@@ -17,7 +18,7 @@ public class SumofAP {
     }
 
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+        Scanner sc = New Scanner(System.in);
         
         // Input number of terms, common difference, and first term
         int numberOfTerms = sc.nextInt();
@@ -34,4 +35,6 @@ public class SumofAP {
  * 
  * sum = (n/2.0)*(2.0*a+(n-1)*d);
  * 
+ * 
+ * for(int i=1;i<2)
  */
