@@ -27,6 +27,6 @@ public class RemoveBracket
         Scanner sc = new Scanner (System.in);
         String str =  sc.nextLine();
         bracket(str);
-
+   sc.close();
     }
 }
