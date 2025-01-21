@@ -22,6 +22,7 @@ public class Maxnum {
         }
         int result=max(arr,0);
         System.out.println(result);
+        sc.close();
     }
 
 }
