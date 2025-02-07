@@ -2,5 +2,8 @@
     "java.debug.settings.onBuildFailureProceed": true,
     "java.configuration.runtimes": [
         
-    ]
+    ],
+    "workbench.editor.autoLockGroups": {
+        "java.formatterSettingsEditor": true
+    }
 }
