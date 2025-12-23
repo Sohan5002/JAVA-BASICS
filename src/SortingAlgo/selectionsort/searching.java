@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 package SortingAlgo.selectionsort;
-=======
-package SortingAlgo.selectionsort.searching;
->>>>>>> 1ba83dc36bd7175be6a2bcb739686c83094c052a
 
 import java.util.Scanner;
 
@@ -23,18 +19,6 @@ public class searching {
         }
     }
     public static void main(String[] args) {
-<<<<<<< HEAD
-        try (Scanner sc = new Scanner(System.in)) {
-            int n= sc.nextInt();
-            int arr[]=new int [n];  
-            for(int i=0;i<n;i++){
-                arr[i]=sc.nextInt();
-            }   
-            Selectionsort(arr);
-            for(int i=0;i<n;i++){
-                System.out.print(arr[i]+" ");
-            }
-=======
         Scanner sc = new Scanner(System.in);
         int n= sc.nextInt();
         int arr[]=new int [n];  
@@ -44,7 +28,7 @@ public class searching {
         Selectionsort(arr);
         for(int i=0;i<n;i++){
             System.out.print(arr[i]+" ");
->>>>>>> 1ba83dc36bd7175be6a2bcb739686c83094c052a
         }
+        sc.close();
     }
 }

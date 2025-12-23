@@ -19,7 +19,6 @@ public class moveallzero {
         }
     }
     public static void main(String[] args) {
-<<<<<<< HEAD
         try (Scanner sc = new Scanner(System.in)) {
             int n= sc.nextInt();
             int arr[]=new int [n];  
@@ -29,15 +28,5 @@ public class moveallzero {
             }
             search(arr);
         }
-=======
-        Scanner sc = new Scanner(System.in);    
-        int n= sc.nextInt();
-        int arr[]=new int [n];  
-
-        for(int i=0;i<n;i++){
-            arr[i]=sc.nextInt();
-        }
-        search(arr);
->>>>>>> 1ba83dc36bd7175be6a2bcb739686c83094c052a
     }
 }
