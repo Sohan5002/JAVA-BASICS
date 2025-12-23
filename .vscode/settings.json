@@ -1,0 +1,12 @@
+{
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.configuration.runtimes": [
+        
+    ],
+    "workbench.editor.autoLockGroups": {
+        "java.formatterSettingsEditor": true
+    },
+    "code-runner.executorMap": {
+        "java": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"$fileDir = '$dir'; $fileName = '$fileName'; $fileBaseName = '$fileNameWithoutExt'; $current = $fileDir; while ($current -and (Split-Path $current -Leaf) -ne 'src') { $parent = Split-Path $current -Parent; if ($parent -eq $current) { break }; $current = $parent }; $srcDir = if ((Split-Path $current -Leaf) -eq 'src') { $current } else { Split-Path $fileDir -Parent }; $pkgPath = $fileDir.Replace($srcDir, '').TrimStart('\\\\', '/').Replace('\\\\', '/'); $pkgName = $pkgPath.Replace('/', '.'); Set-Location $srcDir; javac \"$pkgPath/$fileName\"; if ($LASTEXITCODE -eq 0) { java \"$pkgName.$fileBaseName\" }\""
+    }
+}
