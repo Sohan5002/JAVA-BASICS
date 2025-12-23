@@ -18,7 +18,11 @@ public class SumofAP {
     }
 
     public static void main(String[] args) {
+<<<<<<< HEAD
         Scanner sc = new Scanner(System.in);
+=======
+        Scanner sc = New Scanner(System.in);
+>>>>>>> 1ba83dc36bd7175be6a2bcb739686c83094c052a
         
         // Input number of terms, common difference, and first term
         int numberOfTerms = sc.nextInt();

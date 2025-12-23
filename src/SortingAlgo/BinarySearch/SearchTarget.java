@@ -21,6 +21,7 @@ public class SearchTarget {
 
     }
     public static void main(String[] args) {
+<<<<<<< HEAD
         try (Scanner sc = new  Scanner(System.in)) {
             int n= sc.nextInt();
             int target= sc.nextInt();
@@ -36,5 +37,21 @@ public class SearchTarget {
                 System.out.println("Target is not  found");
              }
         }
+=======
+        Scanner sc = new  Scanner(System.in);
+        int n= sc.nextInt();
+        int target= sc.nextInt();
+        int[] arr = new int[n];
+        for (int i = 0; i < n; i++) {
+            arr[i] = sc.nextInt();
+        }
+         int result = Search(arr, 0,arr.length-1,target);
+         if(result!=-1){
+         System.out.println( "Target found at index  " + result);
+         }
+         else{
+            System.out.println("Target is not  found");
+         }
+>>>>>>> 1ba83dc36bd7175be6a2bcb739686c83094c052a
     }
 }
