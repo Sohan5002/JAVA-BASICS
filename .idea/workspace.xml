@@ -5,14 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="613a02fa-b06c-47b9-9b9d-0ccc1a3128d1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ExceptionHandling/TrowPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionHandling/rethrowingexceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SortingAlgo/MergeSort/MergeTwoSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SortingAlgo/MergeSort/mergetoarraybyrecursion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/ExceptionHandling/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/ExceptionHandling/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Linkedlist/InsertAtindex$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Linkedlist/InsertAtindex$Node.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Linkedlist/InsertAtindex.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Linkedlist/InsertAtindex.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Linkedlist/ReverseLinkedList$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Linkedlist/ReverseLinkedList$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Linkedlist/ReverseLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Linkedlist/ReverseLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Linkedlist/linkedlistll$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Linkedlist/linkedlistll$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Linkedlist/linkedlistll.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Linkedlist/linkedlistll.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Recursion/Maxnum.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Recursion/Maxnum.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Recursion/Palindrom.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Recursion/Palindrom.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Recursion/Printarray.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Recursion/Printarray.class" afterDir="false" />
@@ -27,143 +27,47 @@
       <change beforePath="$PROJECT_DIR$/bin/Recursion/multipleofk.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Recursion/multipleofk.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Recursion/ppowerq.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Recursion/ppowerq.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Recursion/sumofallsubset.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Recursion/sumofallsubset.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/SearchingSorting/margeesort/Arrange.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/SearchingSorting/margeesort/Arrange.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/SortingAlgo/BinarySearch/FirstOccurance.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/SortingAlgo/BinarySearch/FirstOccurance.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/SortingAlgo/BinarySearch/SearchTarget.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/SortingAlgo/BinarySearch/SearchTarget.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/SortingAlgo/BinarySearch/rotateArray/FindMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/SortingAlgo/BinarySearch/rotateArray/FindMatrix.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/SortingAlgo/BinarySearch/rotateArray/RotateArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/SortingAlgo/BinarySearch/rotateArray/RotateArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/SortingAlgo/Insertionsort/FindMAx$Result.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/SortingAlgo/Insertionsort/FindMAx$Result.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/SortingAlgo/Insertionsort/FindMAx.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/SortingAlgo/Insertionsort/FindMAx.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/SortingAlgo/Insertionsort/sort.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/SortingAlgo/Insertionsort/sort.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/SortingAlgo/bubblesort/Arrangelemnt.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/SortingAlgo/bubblesort/Arrangelemnt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/SortingAlgo/bubblesort/moveallzero.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/SortingAlgo/bubblesort/moveallzero.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/SortingAlgo/selectionsort/searching.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/SortingAlgo/selectionsort/searching.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/interviewquestions/Fundamentals/Fundamentals.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/interviewquestions/Fundamentals/Fundamentals.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/javabasics/Consoleclass.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/javabasics/Consoleclass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/javabasics/ExecutableNonExclass.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/javabasics/ExecutableNonExclass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/javabasics/FoodOrderApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/javabasics/FoodOrderApp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/javabasics/Interfaceandclass$SchoolRules.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/javabasics/Interfaceandclass$SchoolRules.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/javabasics/Interfaceandclass$Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/javabasics/Interfaceandclass$Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/javabasics/Interfaceandclass.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/javabasics/Interfaceandclass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/javabasics/Methods$A.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/javabasics/Methods$A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/javabasics/Methods$A1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/javabasics/Methods$A1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/javabasics/Methods.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/javabasics/Methods.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/javabasics/Variables.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/javabasics/Variables.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/javabasics/collectionFramework/CollectionInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/javabasics/collectionFramework/CollectionInterface.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/module-info.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/module-info.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/pattern/Alphabet.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/pattern/Alphabet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/pattern/Num.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/pattern/Num.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/pattern/Paramid.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/pattern/Paramid.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/slidingwindow/Countofsubarray.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/slidingwindow/Countofsubarray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/slidingwindow/MInsum.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/slidingwindow/MInsum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/slidingwindow/Max.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/slidingwindow/Max.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/tcs/ALLvouwelremovefromstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/tcs/ALLvouwelremovefromstring.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/tcs/ASCIIOFCHAR.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/tcs/ASCIIOFCHAR.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/tcs/Addtwofraction.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/tcs/Addtwofraction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/tcs/AllPrimeFactors.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/tcs/AllPrimeFactors.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/tcs/AllSymmetric.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/tcs/AllSymmetric.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/tcs/Allpalindrom.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/tcs/Allpalindrom.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/tcs/Allrepeating.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/tcs/Allrepeating.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/tcs/Amstrong.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/tcs/Amstrong.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/tcs/Areaofcircle.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/tcs/Areaofcircle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/tcs/Automorphic.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/tcs/Automorphic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/tcs/CountofnumberofVCSinstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/tcs/CountofnumberofVCSinstring.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/tcs/EvenOdd.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/tcs/EvenOdd.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/tcs/Factor.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/tcs/Factor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/tcs/Factorial.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/tcs/Factorial.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/tcs/Fibonacci.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/tcs/Fibonacci.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/tcs/Findminmaxofdiggit.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/tcs/Findminmaxofdiggit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/tcs/Gratestthree.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/tcs/Gratestthree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/tcs/Greatestcommon.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/tcs/Greatestcommon.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/tcs/Harshad.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/tcs/Harshad.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/tcs/Insertelement.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/tcs/Insertelement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/tcs/Krotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/tcs/Krotation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/tcs/Lcm.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/tcs/Lcm.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/tcs/Maximumproduct.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/tcs/Maximumproduct.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/tcs/Moniter.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/tcs/Moniter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/tcs/Nonrepating.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/tcs/Nonrepating.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/tcs/Palindrom.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/tcs/Palindrom.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/tcs/PalindromofString.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/tcs/PalindromofString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/tcs/PerfactNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/tcs/PerfactNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/tcs/PostiveNegative.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/tcs/PostiveNegative.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/tcs/Power.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/tcs/Power.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/tcs/Prime.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/tcs/Prime.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/tcs/RemoveBracket.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/tcs/RemoveBracket.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/tcs/RemoveSpace.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/tcs/RemoveSpace.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/tcs/Replaceall0with1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/tcs/Replaceall0with1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/tcs/Replaceduplicate.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/tcs/Replaceduplicate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/tcs/Reversenum.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/tcs/Reversenum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/tcs/SUmofNaturalmo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/tcs/SUmofNaturalmo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/tcs/Smallestno.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/tcs/Smallestno.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/tcs/Springboor.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/tcs/Springboor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/tcs/Strongnumberornot.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/tcs/Strongnumberornot.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/tcs/SumofAP.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/tcs/SumofAP.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/tcs/SumofGp.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/tcs/SumofGp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/tcs/SumofStringdigit.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/tcs/SumofStringdigit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/tcs/Sumofdigit.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/tcs/Sumofdigit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/tcs/Sumofgivenrange.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/tcs/Sumofgivenrange.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/tcs/SumofstringNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/tcs/SumofstringNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/tcs/UnsortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/tcs/UnsortedArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/tcs/abundant.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/tcs/abundant.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/tcs/checkgivennumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/tcs/checkgivennumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/tcs/permutation.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/tcs/permutation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/tcs/removecharacter.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/tcs/removecharacter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/tcs/reverseString.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/tcs/reverseString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/tcs/rootofaquadratic.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/tcs/rootofaquadratic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/tcs/testing.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/tcs/testing.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/topointer/ARRANGEoddandeven.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/topointer/ARRANGEoddandeven.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/topointer/Removeelements.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/topointer/Removeelements.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/topointer/Squreofarray.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/topointer/Squreofarray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/topointer/Zerorightswift.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/topointer/Zerorightswift.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExceptionHandling/BasicHandling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExceptionHandling/BasicHandling.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Linkedlist/InsertAtindex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Linkedlist/InsertAtindex.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recursion/Maxnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/Maxnum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recursion/Palindrom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/Palindrom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recursion/Printarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/Printarray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recursion/Removeoccurance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/Removeoccurance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recursion/Reverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/Reverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recursion/SSQ.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/SSQ.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recursion/Searchelements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/Searchelements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recursion/SeriesSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/SeriesSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recursion/Subsequences.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/Subsequences.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recursion/Sumofdigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/Sumofdigits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recursion/Sumofelements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/Sumofelements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recursion/multipleofk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/multipleofk.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recursion/ppowerq.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/ppowerq.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recursion/sumofallsubset.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/sumofallsubset.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SortingAlgo/BinarySearch/FirstOccurance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SortingAlgo/BinarySearch/FirstOccurance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SortingAlgo/BinarySearch/SearchTarget.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SortingAlgo/BinarySearch/SearchTarget.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SortingAlgo/Insertionsort/sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SortingAlgo/Insertionsort/sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SortingAlgo/bubblesort/Arrangelemnt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SortingAlgo/bubblesort/Arrangelemnt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SortingAlgo/bubblesort/moveallzero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SortingAlgo/bubblesort/moveallzero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SortingAlgo/selectionsort/searching.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SortingAlgo/selectionsort/searching.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tcs/SumofAP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tcs/SumofAP.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/topointer/Squreofarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/topointer/Squreofarray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SortingAlgo/margeesort/Arrange.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Sohan5002"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Sohan5002&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Sohan5002/JAVA-BASICS.git",
-    "accountId": "31467dc7-e61c-4725-8e26-9ef1d3808270"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Sohan5002/JAVA-BASICS.git&quot;,
+    &quot;accountId&quot;: &quot;31467dc7-e61c-4725-8e26-9ef1d3808270&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 3
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="37EYUEfa5kxFZhmqsUruu3VeCll" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -171,49 +75,28 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Arrange.executor": "Run",
     "Application.EvenOdd.executor": "Run",
     "Application.Fibonacci.executor": "Run",
     "Application.Lcm.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MergeTwoSortedArray.executor": "Run",
     "Application.SumofAP.executor": "Run",
+    "Application.TrowPractice.executor": "Run",
+    "Application.rethrowingexceptions.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "practice-java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="EvenOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tcs.EvenOdd" />
+  <component name="RunManager" selected="Application.MergeTwoSortedArray">
+    <configuration name="Arrange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SearchingSorting.margeesort.Arrange" />
       <module name="JavaCourses" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tcs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tcs.Fibonacci" />
-      <module name="JavaCourses" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tcs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lcm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tcs.Lcm" />
-      <module name="JavaCourses" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tcs.*" />
+          <option name="PATTERN" value="SearchingSorting.margeesort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -234,12 +117,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumofAP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tcs.SumofAP" />
+    <configuration name="MergeTwoSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SortingAlgo.MergeSort.MergeTwoSortedArray" />
       <module name="JavaCourses" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tcs.*" />
+          <option name="PATTERN" value="SortingAlgo.MergeSort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrowPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExceptionHandling.TrowPractice" />
+      <module name="JavaCourses" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExceptionHandling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rethrowingexceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExceptionHandling.rethrowingexceptions" />
+      <module name="JavaCourses" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExceptionHandling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -249,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MergeTwoSortedArray" />
+        <item itemvalue="Application.Arrange" />
+        <item itemvalue="Application.rethrowingexceptions" />
+        <item itemvalue="Application.TrowPractice" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.EvenOdd" />
-        <item itemvalue="Application.SumofAP" />
-        <item itemvalue="Application.Lcm" />
-        <item itemvalue="Application.Fibonacci" />
       </list>
     </recent_temporary>
   </component>
