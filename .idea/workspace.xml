@@ -5,12 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="613a02fa-b06c-47b9-9b9d-0ccc1a3128d1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ExceptionHandling/CustomException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExceptionHandling/DrivingLicense.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExceptionHandling/OverAgeException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExceptionHandling/UnderageException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/Basic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/Checkifstringcontainsacharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/Checkpalindromestring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/Comparetwostrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/Convertstringtoupperlowercase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/Countdigitslettersspecialcharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/Countvowelsconsonants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/Findstringlengthwithoutusinglength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/Printeachcharacterofstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/Removespacesfromstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/Replacecharacterinstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/Reversewordsinasentence.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/ExceptionHandling/CustomException.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/ExceptionHandling/CustomException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/ExceptionHandling/DrivingLicense.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/ExceptionHandling/DrivingLicense.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/ExceptionHandling/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/ExceptionHandling/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/ExceptionHandling/OverAgeException.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/ExceptionHandling/OverAgeException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/ExceptionHandling/UnderageException.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/ExceptionHandling/UnderageException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/SortingAlgo/MergeSort/MergeTwoSortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/SortingAlgo/MergeSort/MergeTwoSortedArray.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/SortingAlgo/MergeSort/mergetoarraybyrecursion.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/SortingAlgo/MergeSort/mergetoarraybyrecursion.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,12 +66,23 @@
   "keyToString": {
     "Application.Arrange.executor": "Run",
     "Application.Basic.executor": "Run",
+    "Application.Checkifstringcontainsacharacter.executor": "Run",
+    "Application.Checkpalindromestring.executor": "Run",
+    "Application.Comparetwostrings.executor": "Run",
+    "Application.Convertstringtoupperlowercase.executor": "Run",
+    "Application.Countdigitslettersspecialcharacters.executor": "Run",
+    "Application.Countvowelsconsonants.executor": "Run",
     "Application.CustomException.executor": "Run",
     "Application.EvenOdd.executor": "Run",
     "Application.Fibonacci.executor": "Run",
+    "Application.Findstringlengthwithoutusinglength.executor": "Run",
     "Application.Lcm.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MergeTwoSortedArray.executor": "Run",
+    "Application.Printeachcharacterofstring.executor": "Run",
+    "Application.Removespacesfromstring.executor": "Run",
+    "Application.Replacecharacterinstring.executor": "Debug",
+    "Application.ReverseString.executor": "Run",
     "Application.SumofAP.executor": "Run",
     "Application.TrowPractice.executor": "Run",
     "Application.rethrowingexceptions.executor": "Run",
@@ -68,22 +92,9 @@
     "git-widget-placeholder": "practice-java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CustomException">
-    <configuration name="Arrange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SearchingSorting.margeesort.Arrange" />
-      <module name="JavaCourses" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SearchingSorting.margeesort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Basic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String.Basic" />
+  <component name="RunManager" selected="Application.ReverseWords">
+    <configuration name="Countdigitslettersspecialcharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String.Countdigitslettersspecialcharacters" />
       <module name="JavaCourses" />
       <extension name="coverage">
         <pattern>
@@ -95,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CustomException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExceptionHandling.CustomException" />
+    <configuration name="Printeachcharacterofstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String.Printeachcharacterofstring" />
       <module name="JavaCourses" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExceptionHandling.*" />
+          <option name="PATTERN" value="String.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeTwoSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SortingAlgo.MergeSort.MergeTwoSortedArray" />
+    <configuration name="Removespacesfromstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String.Removespacesfromstring" />
       <module name="JavaCourses" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SortingAlgo.MergeSort.*" />
+          <option name="PATTERN" value="String.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +132,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="rethrowingexceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExceptionHandling.rethrowingexceptions" />
+    <configuration name="Replacecharacterinstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String.Replacecharacterinstring" />
       <module name="JavaCourses" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExceptionHandling.*" />
+          <option name="PATTERN" value="String.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String.ReverseWords" />
+      <module name="JavaCourses" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="String.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CustomException" />
-        <item itemvalue="Application.Basic" />
-        <item itemvalue="Application.MergeTwoSortedArray" />
-        <item itemvalue="Application.Arrange" />
-        <item itemvalue="Application.rethrowingexceptions" />
+        <item itemvalue="Application.ReverseWords" />
+        <item itemvalue="Application.Countdigitslettersspecialcharacters" />
+        <item itemvalue="Application.Removespacesfromstring" />
+        <item itemvalue="Application.Replacecharacterinstring" />
+        <item itemvalue="Application.Printeachcharacterofstring" />
       </list>
     </recent_temporary>
   </component>
@@ -153,5 +177,25 @@
       <updated>1766469715584</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/String/ReverseString.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/String/Checkifstringcontainsacharacter.java</url>
+          <line>5</line>
+          <properties class="String.Checkifstringcontainsacharacter" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
