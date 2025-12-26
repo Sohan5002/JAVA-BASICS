@@ -5,37 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="613a02fa-b06c-47b9-9b9d-0ccc1a3128d1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ExceptionHandling/TrowPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExceptionHandling/rethrowingexceptions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SortingAlgo/MergeSort/MergeTwoSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SortingAlgo/MergeSort/mergetoarraybyrecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionHandling/CustomException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionHandling/DrivingLicense.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionHandling/OverAgeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionHandling/UnderageException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/Basic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ExceptionHandling/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/ExceptionHandling/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Linkedlist/InsertAtindex$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Linkedlist/InsertAtindex$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Linkedlist/InsertAtindex.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Linkedlist/InsertAtindex.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Recursion/Maxnum.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Recursion/Maxnum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Recursion/Palindrom.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Recursion/Palindrom.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Recursion/Printarray.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Recursion/Printarray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Recursion/Removeoccurance.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Recursion/Removeoccurance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Recursion/Reverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Recursion/Reverse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Recursion/SSQ.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Recursion/SSQ.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Recursion/Searchelements.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Recursion/Searchelements.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Recursion/SeriesSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Recursion/SeriesSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Recursion/Subsequences.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Recursion/Subsequences.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Recursion/Sumofdigits.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Recursion/Sumofdigits.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Recursion/Sumofelements.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Recursion/Sumofelements.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Recursion/multipleofk.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Recursion/multipleofk.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Recursion/ppowerq.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Recursion/ppowerq.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Recursion/sumofallsubset.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Recursion/sumofallsubset.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/SortingAlgo/BinarySearch/FirstOccurance.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/SortingAlgo/BinarySearch/FirstOccurance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/SortingAlgo/BinarySearch/SearchTarget.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/SortingAlgo/BinarySearch/SearchTarget.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/SortingAlgo/Insertionsort/sort.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/SortingAlgo/Insertionsort/sort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/SortingAlgo/bubblesort/Arrangelemnt.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/SortingAlgo/bubblesort/Arrangelemnt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/SortingAlgo/bubblesort/moveallzero.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/SortingAlgo/bubblesort/moveallzero.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/SortingAlgo/selectionsort/searching.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/SortingAlgo/selectionsort/searching.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/tcs/SumofAP.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/tcs/SumofAP.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/topointer/Squreofarray.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/topointer/Squreofarray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SortingAlgo/margeesort/Arrange.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/SortingAlgo/MergeSort/mergetoarraybyrecursion.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/SortingAlgo/MergeSort/mergetoarraybyrecursion.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +52,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Arrange.executor": "Run",
+    "Application.Basic.executor": "Run",
+    "Application.CustomException.executor": "Run",
     "Application.EvenOdd.executor": "Run",
     "Application.Fibonacci.executor": "Run",
     "Application.Lcm.executor": "Run",
@@ -90,7 +68,7 @@
     "git-widget-placeholder": "practice-java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MergeTwoSortedArray">
+  <component name="RunManager" selected="Application.CustomException">
     <configuration name="Arrange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SearchingSorting.margeesort.Arrange" />
       <module name="JavaCourses" />
@@ -104,8 +82,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExceptionHandling.Main" />
+    <configuration name="Basic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String.Basic" />
+      <module name="JavaCourses" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="String.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExceptionHandling.CustomException" />
       <module name="JavaCourses" />
       <extension name="coverage">
         <pattern>
@@ -130,19 +121,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TrowPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExceptionHandling.TrowPractice" />
-      <module name="JavaCourses" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ExceptionHandling.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="rethrowingexceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ExceptionHandling.rethrowingexceptions" />
       <module name="JavaCourses" />
@@ -158,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CustomException" />
+        <item itemvalue="Application.Basic" />
         <item itemvalue="Application.MergeTwoSortedArray" />
         <item itemvalue="Application.Arrange" />
         <item itemvalue="Application.rethrowingexceptions" />
-        <item itemvalue="Application.TrowPractice" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
