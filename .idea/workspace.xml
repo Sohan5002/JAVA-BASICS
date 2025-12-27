@@ -5,26 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="613a02fa-b06c-47b9-9b9d-0ccc1a3128d1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/String/Checkifstringcontainsacharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/Checkpalindromestring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/Comparetwostrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/Convertstringtoupperlowercase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/Countdigitslettersspecialcharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/Countvowelsconsonants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/Findstringlengthwithoutusinglength.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/Printeachcharacterofstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/Removespacesfromstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/Replacecharacterinstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/ReverseString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/Reversewordsinasentence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/Checkanagramstrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/Countfrequencyofeachcharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/Countwordsinastring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/Findduplicatecharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/Findfirstnonrepeatingcharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/Findfirstrepeatingcharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/Removeduplicatecharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/Reverseeachwordinasentence.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ExceptionHandling/CustomException.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/ExceptionHandling/CustomException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ExceptionHandling/DrivingLicense.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/ExceptionHandling/DrivingLicense.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ExceptionHandling/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/ExceptionHandling/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ExceptionHandling/OverAgeException.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/ExceptionHandling/OverAgeException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ExceptionHandling/UnderageException.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/ExceptionHandling/UnderageException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/SortingAlgo/MergeSort/MergeTwoSortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/SortingAlgo/MergeSort/MergeTwoSortedArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/SortingAlgo/MergeSort/mergetoarraybyrecursion.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/SortingAlgo/MergeSort/mergetoarraybyrecursion.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,23 +55,30 @@
   "keyToString": {
     "Application.Arrange.executor": "Run",
     "Application.Basic.executor": "Run",
+    "Application.Checkanagramstrings.executor": "Run",
     "Application.Checkifstringcontainsacharacter.executor": "Run",
     "Application.Checkpalindromestring.executor": "Run",
     "Application.Comparetwostrings.executor": "Run",
     "Application.Convertstringtoupperlowercase.executor": "Run",
     "Application.Countdigitslettersspecialcharacters.executor": "Run",
+    "Application.Countfrequencyofeachcharacter.executor": "Run",
     "Application.Countvowelsconsonants.executor": "Run",
+    "Application.Countwordsinastring.executor": "Run",
     "Application.CustomException.executor": "Run",
     "Application.EvenOdd.executor": "Run",
     "Application.Fibonacci.executor": "Run",
+    "Application.Findduplicatecharacters.executor": "Run",
+    "Application.Findfirstnonrepeatingcharacter.executor": "Run",
     "Application.Findstringlengthwithoutusinglength.executor": "Run",
     "Application.Lcm.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MergeTwoSortedArray.executor": "Run",
     "Application.Printeachcharacterofstring.executor": "Run",
+    "Application.Removeduplicatecharacters.executor": "Run",
     "Application.Removespacesfromstring.executor": "Run",
     "Application.Replacecharacterinstring.executor": "Debug",
     "Application.ReverseString.executor": "Run",
+    "Application.ReverseWords.executor": "Run",
     "Application.SumofAP.executor": "Run",
     "Application.TrowPractice.executor": "Run",
     "Application.rethrowingexceptions.executor": "Run",
@@ -92,9 +88,9 @@
     "git-widget-placeholder": "practice-java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ReverseWords">
-    <configuration name="Countdigitslettersspecialcharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String.Countdigitslettersspecialcharacters" />
+  <component name="RunManager" selected="Application.Countwordsinastring">
+    <configuration name="Checkanagramstrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String.Checkanagramstrings" />
       <module name="JavaCourses" />
       <extension name="coverage">
         <pattern>
@@ -106,8 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Printeachcharacterofstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String.Printeachcharacterofstring" />
+    <configuration name="Countwordsinastring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String.Countwordsinastring" />
       <module name="JavaCourses" />
       <extension name="coverage">
         <pattern>
@@ -119,8 +115,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Removespacesfromstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String.Removespacesfromstring" />
+    <configuration name="Findduplicatecharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String.Findduplicatecharacters" />
       <module name="JavaCourses" />
       <extension name="coverage">
         <pattern>
@@ -132,8 +128,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Replacecharacterinstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String.Replacecharacterinstring" />
+    <configuration name="Findfirstnonrepeatingcharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String.Findfirstnonrepeatingcharacter" />
       <module name="JavaCourses" />
       <extension name="coverage">
         <pattern>
@@ -145,8 +141,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String.ReverseWords" />
+    <configuration name="Removeduplicatecharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String.Removeduplicatecharacters" />
       <module name="JavaCourses" />
       <extension name="coverage">
         <pattern>
@@ -160,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReverseWords" />
-        <item itemvalue="Application.Countdigitslettersspecialcharacters" />
-        <item itemvalue="Application.Removespacesfromstring" />
-        <item itemvalue="Application.Replacecharacterinstring" />
-        <item itemvalue="Application.Printeachcharacterofstring" />
+        <item itemvalue="Application.Countwordsinastring" />
+        <item itemvalue="Application.Checkanagramstrings" />
+        <item itemvalue="Application.Findfirstnonrepeatingcharacter" />
+        <item itemvalue="Application.Removeduplicatecharacters" />
+        <item itemvalue="Application.Findduplicatecharacters" />
       </list>
     </recent_temporary>
   </component>
