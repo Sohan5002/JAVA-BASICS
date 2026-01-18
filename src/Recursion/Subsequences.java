@@ -1,9 +1,5 @@
 // To find all the subsequences of a string using arraylist
-<<<<<<< HEAD
 package Recursion;
-=======
-package recursion;
->>>>>>> 1ba83dc36bd7175be6a2bcb739686c83094c052a
 import java.util.ArrayList;
 import java.util.Scanner;
 

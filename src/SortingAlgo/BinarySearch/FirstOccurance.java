@@ -27,7 +27,6 @@ public class FirstOccurance {
     return fo;
 }
     public static void main(String[] args) {
-<<<<<<< HEAD
         try (Scanner sc = new  Scanner(System.in)) {
             int n= sc.nextInt();
             int target= sc.nextInt();
@@ -43,21 +42,5 @@ public class FirstOccurance {
             System.out.println("index is " +result);
          }
         }
-=======
-        Scanner sc = new  Scanner(System.in);
-        int n= sc.nextInt();
-        int target= sc.nextInt();
-        int[] arr = new int[n];
-        for (int i = 0; i < n; i++) {
-            arr[i] = sc.nextInt();
-        }
-     int result=Search(arr,target);
-     if(result ==-1)
-     System.out.println("digit not found ");
-     else
-     {
-        System.out.println("index is " +result);
-     }
->>>>>>> 1ba83dc36bd7175be6a2bcb739686c83094c052a
     }
 }

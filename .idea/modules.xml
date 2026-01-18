@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/.idea/JAVA-BASICS-main.iml" filepath="$PROJECT_DIR$/.idea/JAVA-BASICS-main.iml" />
+=======
       <module fileurl="file://$PROJECT_DIR$/JavaCourses.iml" filepath="$PROJECT_DIR$/JavaCourses.iml" />
+>>>>>>> 980f428d7315d12baea874c0196051c5e9e2a681
     </modules>
   </component>
 </project>

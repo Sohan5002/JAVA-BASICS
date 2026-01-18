@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 package Recursion;
-=======
-package recursion;
->>>>>>> 1ba83dc36bd7175be6a2bcb739686c83094c052a
 
 import java.util.ArrayList;
 import java.util.Scanner;
@@ -15,7 +11,6 @@ public class Searchelements {
         if(index>=arr.length) return new ArrayList<Integer>();
 
         //selfwork
-<<<<<<< HEAD
         ArrayList<Integer> result = new ArrayList<Integer>();
         if(arr[index]==target) {
             System.out.print(index +1 +" ");
@@ -25,15 +20,6 @@ public class Searchelements {
         ArrayList<Integer> smallAns = Searchele(arr, index + 1,target);
         result.addAll(smallAns);
         return result;
-=======
-        if(arr[index]==target) {
-        System.out.print(index +1 +" ");}
-        //recursive
-         Searchele(arr, index + 1,target);
-        
-        //int small = Searchele(arr,target, index + 1);
-
->>>>>>> 1ba83dc36bd7175be6a2bcb739686c83094c052a
     }
 
   /*----------------------------------------------------------------------------------------------------------- 
@@ -89,18 +75,17 @@ public class Searchelements {
     }
         */
      public static void main(String[] args) {
-<<<<<<< HEAD
-        try (Scanner sc = new Scanner(System.in)) {
-            int index=sc.nextInt();
-            int target=sc.nextInt();
-            int[] arr = new int[index];
-            for(int i=0;i<index;i++)
-            {
-                arr[i]=sc.nextInt();
-            }
-           ArrayList<Integer> result= Searchele(arr,0,target);
-       // boolean result= Searchele(arr,0,target);
-      // int result= Searchele(arr,0,target);
+        Scanner sc = new Scanner(System.in);
+        int index=sc.nextInt();
+        int target=sc.nextInt();
+        int[] arr = new int[index];
+        for(int i=0;i<index;i++)
+        {
+            arr[i]=sc.nextInt();
+        }
+       ArrayList<Integer> result= Searchele(arr,0,target);
+   // boolean result= Searchele(arr,0,target);
+  // int result= Searchele(arr,0,target);
         /*if(result)
         {
             System.out.println("Element found");
@@ -115,33 +100,6 @@ public class Searchelements {
         {
             System.out.print(i+" ");
         }
-        }
-=======
-        Scanner sc = new Scanner(System.in);
-        int index=sc.nextInt();
-        int target=sc.nextInt();
-        int[] arr = new int[index];
-        for(int i=0;i<index;i++)
-        {
-            arr[i]=sc.nextInt();
-        }
-       ArrayList<Integer> result= Searchele(arr,0,target);
-   // boolean result= Searchele(arr,0,target);
-  // int result= Searchele(arr,0,target);
-    /*if(result)
-    {
-        System.out.println("Element found");
+        sc.close();
     }
-    else
-    {
-        System.out.println("Element not found");    
-
-    }*/
-    for(Integer i:result)
-    {
-        System.out.print(i+" ");
-    }
->>>>>>> 1ba83dc36bd7175be6a2bcb739686c83094c052a
-    
-}
 }

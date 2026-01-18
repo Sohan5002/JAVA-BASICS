@@ -16,19 +16,7 @@ public class sort {
         }
     }
     public static void main(String[] args) {
-<<<<<<< HEAD
         try (Scanner sc = new Scanner(System.in)) {
-            int n= sc.nextInt();
-            int arr[]=new int [n];  
-            for(int i=0;i<n;i++){
-                arr[i]=sc.nextInt();
-            }
-            Insertionsort(arr);
-            for(int i=0;i<n;i++){
-                System.out.print(arr[i]+" ");
-            }
-=======
-        Scanner sc = new Scanner(System.in);    
         int n= sc.nextInt();
         int arr[]=new int [n];  
         for(int i=0;i<n;i++){
@@ -37,7 +25,7 @@ public class sort {
         Insertionsort(arr);
         for(int i=0;i<n;i++){
             System.out.print(arr[i]+" ");
->>>>>>> 1ba83dc36bd7175be6a2bcb739686c83094c052a
+            }
         }
     }
     
